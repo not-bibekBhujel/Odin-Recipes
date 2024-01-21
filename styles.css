@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    display:block;
+    margin:auto;
+    width:450px;
+    height: auto;
+    margin-bottom:50px;
+}
+h4{
+    margin: auto auto auto 15px;
+}
+p{
+    text-align: left;
+    padding-left: 32px;
+}
+li{
+    padding-left: 25px;
+}
